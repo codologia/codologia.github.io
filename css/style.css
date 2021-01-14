@@ -1,0 +1,14 @@
+.date {
+    color: blue;
+    font-weight: bold;
+    flex-direction: column;
+}
+
+ul,
+ol {
+    color: brown;
+}
+
+div {
+    display: flex;
+}
